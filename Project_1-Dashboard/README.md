@@ -8,7 +8,7 @@ The data is from my Excel course, which provides a foundation in analyzing data 
 
 ### Dashboard File
 
-My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
+My final dashboard is in [Salary_Dashboard.xlsx](/Excel_Project-Data_Analytics/Project_1-Dashboard/Salary_Dashboard.xlsx)
 
 ### Excel Skills Used
 The following Excel skills were utilized for analysis:

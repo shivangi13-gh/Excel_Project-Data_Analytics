@@ -3,6 +3,10 @@
 ## Introduction
 To better understand the data job market, I analyzed salaries and skill requirements across various roles. The goal was to identify patterns in compensation and the skills that lead to higher-paying opportunities.
 
+### Dashboard File
+
+My final dashboard is in [Project_Analysis.xlsx](/Excel_Project-Data_Analytics/Project_2-Analysis/Project_Analysis.xlsx).
+
 ### Questions to Analyze
 To understand the data science job market, I asked the following:
 1. **Do more skills get you better pay?**
